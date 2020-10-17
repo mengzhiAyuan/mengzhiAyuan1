@@ -1,0 +1,2 @@
+E:\vs.编程项目\点列表.cpp\Debug\点列表.cpp.exe
+E:\vs.编程项目\点列表.cpp\Debug\点列表.cpp.pdb
