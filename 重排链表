@@ -36,7 +36,7 @@ public:
             fast=fast->next->next;
             slow=slow->next;
         }
-        return slow;//双指针找到链表中点
+        return slow;//快慢指针找到链表中点
     }
     void reserve(List r){
         List pre=nullptr;
